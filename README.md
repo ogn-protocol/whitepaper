@@ -22,7 +22,7 @@ A decentralized data ownership and compensation infrastructure built on Ethereum
 
 | Repository | Description |
 |-----------|-------------|
-| [whitepaper](https://github.com/YOUR-ORG-NAME/whitepaper) | Protocol whitepaper and specification |
+| [whitepaper](https://github.com/ogn-protocol/whitepaper) | Protocol whitepaper and specification |
 | [contracts](https://github.com/YOUR-ORG-NAME/contracts) | Smart contracts (coming soon) |
 | [app](https://github.com/YOUR-ORG-NAME/app) | Creator dashboard (coming soon) |
 
